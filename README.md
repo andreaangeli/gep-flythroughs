@@ -117,7 +117,7 @@ To create a video file from a tour, we take the tour that we created and use Goo
 ### Preparing for rendering
 **Updating cache settings:** To begin with, it’s worth setting the cache to the maximum possible size. Go into the Google Earth settings (Tools > Options on Windows, Google Earth Pro > Preferences on OS X) and select the ‘cache tab’. Enter **1024** for the Memory Cache Size and **2048** for the Disk Cache Size.
 
-**Play through your tour: ** This helps to preload the imagery and download the relevant data for the location of your flythrough rather than downloading while rendering. Double click your tour in the ‘Places’ panel and let it run through a couple of times.
+**Play through your tour:** This helps to preload the imagery and download the relevant data for the location of your flythrough rather than downloading while rendering. Double click your tour in the ‘Places’ panel and let it run through a couple of times.
 
 ### Rendering
 To begin rendering, make sure that the tour playback controls (from step 6 of creating the tour) are closed by clicking the cross in the top right hand corner.
