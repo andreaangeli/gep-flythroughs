@@ -2,13 +2,12 @@
 
 **Table of contents**
 
-1. What is a flythrough?
-2. Where they work well?
-3. Getting started
-4. Creating your own tours
-5. Creating a video file
-6. Pro tips
-7. Resources
+1. [What is a flythrough?](#what-is-a-flythrough)
+2. [Where they work well](#where-they-work-well)
+3. [Getting started](#getting-started)
+4. [Creating your own tours](#creating-your-own-tours)
+5. [Creating a video file](#creating-a-video-file)
+6. [Resources](#resources)
 
 ## What is a flythrough?
 ### Examples of flythroughs in use
@@ -116,7 +115,7 @@ Click the save icon on the right hand side, give the tour a relevant name (as we
 To create a video file from a tour, we take the tour that we created and use Google Earth Pro’s ‘Movie Maker’ tool. Before that, however, it’s worth maxing out the settings to keep our renders nice and smooth.
 
 ### Preparing for rendering
-**Updating cache settings: ** To begin with, it’s worth setting the cache to the maximum possible size. Go into the Google Earth settings (Tools > Options on Windows, Google Earth Pro > Preferences on OS X) and select the ‘cache tab’. Enter **1024** for the Memory Cache Size and **2048** for the Disk Cache Size.
+**Updating cache settings:** To begin with, it’s worth setting the cache to the maximum possible size. Go into the Google Earth settings (Tools > Options on Windows, Google Earth Pro > Preferences on OS X) and select the ‘cache tab’. Enter **1024** for the Memory Cache Size and **2048** for the Disk Cache Size.
 
 **Play through your tour: ** This helps to preload the imagery and download the relevant data for the location of your flythrough rather than downloading while rendering. Double click your tour in the ‘Places’ panel and let it run through a couple of times.
 
