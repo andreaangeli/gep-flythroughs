@@ -32,8 +32,9 @@ The effect for both terrain and 3D buildings is quite impressive.
 Google Earth Pro [can be downloaded from their site](http://www.google.co.uk/earth/download/gep/agree.html) and since [January 2015](https://google-latlong.blogspot.co.uk/2015/01/google-earth-pro-is-now-free.html) hasn’t required a paid license, making it perfect for teams of newsroom journalists and designers to create content.
 
 Once you have installed it, open it up and log in with the following settings:
-*Username:* _[your email address]_
-*License key:* GEPFREE
+
+- **Username:** _[your email address]_
+- **License key:** GEPFREE
 
 ### The interface
 If you have used Google Earth before, it is likely that you already know enough about the interface to create a flythrough.
