@@ -7,7 +7,7 @@
 3. [Getting started](#getting-started)
 4. [Creating your own tours](#creating-your-own-tours)
 5. [Creating a video file](#creating-a-video-file)
-6. [Resources](#resources)
+6. [Useful links and resources](#useful-links-and-resources)
 
 ## What is a flythrough?
 ### Examples of flythroughs in use
@@ -142,6 +142,7 @@ If you’re having problems with your renders – be that 3D imagery dropout, st
 
 **General advice:** Clearing Google Earth’s cache and reloading the imagery for your tour gives you the best chance of success, Google’s [instructions for rendering imagery](https://newslab.withgoogle.com/lesson/5225220302438400) cover how to do this in detail for both Windows and Mac devices.
 
-## Resources
+## Useful links and resources
 - [Google Journalism tools walkthrough](https://newslab.withgoogle.com/lesson/5877564899852288)
 - [Google Journalism tools rendering tips](https://newslab.withgoogle.com/lesson/5225220302438400)
+- [Google licensing guidelines for attribution](http://www.google.com/permissions/geoguidelines.html)
