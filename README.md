@@ -49,7 +49,17 @@ As a bit of a refresher, or if you’re new to Google Earth, here are the tools 
 
 ![Marker tools in the Google Earth interface](screenshots/GE_interface_notes_2.png)
 
-In addition to these, there are a couple of handy keyboard shortcuts that make navigating around a location easier:
+**Using 3D buildings and terrain data**
+
+If everything is looking a bit flat, you can turn on 3D buildings and terrain data to render your imagery in a more realistic style.
+
+To do this, go to the ‘Layers’ panel on the left hand side of the interface and make sure that ‘3D buildings’ and ‘Terrain’ are selected.
+
+![Using terrain and 3D buildings in Google Earth](screenshots/terrain_and_3d.png)
+
+**Keyboard shortcuts**
+
+There are a couple of handy keyboard shortcuts that make navigating around a location easier:
 
   - **Resetting the view:** If at any point you want to reset the view to looking directly down at the Earth with the top of the screen facing north, you can press *r* on the keyboard to reset the view.
 
@@ -90,6 +100,7 @@ To view your flythrough, select the folder in the ‘Places’ panel and a butto
 
 ![Previewing your flythrough](screenshots/folder_with_play_button.png)
 
+#### Adjusting the speed and pace of playback
 Chances are that you will want to change the speed that it plays back at. To do this, go into the main Google Earth Pro settings (Tools > Options on Windows, Google Earth Pro > Preferences on OS X) and select ‘Touring’. With the first two sliders you can adjust the speed that your flythrough plays. The first slider controls the amount of time it takes to get from place to place (we’d recommend about 3 seconds) and the second slider controls how long the flythrough will pause at each location.
 
 ![Changing flythrough timing settings](screenshots/touring_preferences.png)
@@ -104,13 +115,16 @@ This file can act as a backup in case you make any changes to markers and want t
 
 **Step 6 – Create a tour from a folder of markers**
 
-To turn these markers into something we can use to render video, we need to save a tour. When you click the play folder button (from step 5) a set of playback controls appears in the bottom left of the map window.
+To turn these markers into something we can use to render video, we need to save a tour. When you click the play folder button (from step 4) a set of playback controls appears in the bottom left of the map window.
 
 ![Tour playback controls](screenshots/video_save.png)
 
 Click the save icon on the right hand side, give the tour a relevant name (as we will be using this later) and click OK. You should then see a new item in your folder with a little video camera icon – this is a tour.
 
 ![Our final tour item](screenshots/tour_icon_in_folder.png)
+
+### Using a path
+[Creating a tour from a path](/from_paths/README.md) is a slightly different process, for which we have created an [additional guide](/from_paths/README.md), covering the extra settings and subtleties.
 
 ## Creating a video file
 To create a video file from a tour, we take the tour that we created and use Google Earth Pro’s ‘Movie Maker’ tool. Before that, however, it’s worth maxing out the settings to keep our renders nice and smooth.
