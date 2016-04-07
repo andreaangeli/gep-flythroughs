@@ -101,7 +101,7 @@ To create a tour item so that we can render a video of the flythrough, select th
 
 Click this, and your flythrough will start to play back with a set of playback controls in the bottom left corner of the window.
 
-![Tour playback controls](../../../screenshots/video_save.png)
+![Tour playback controls](../../../raw/master/screenshots/video_save.png)
 
 Click the save icon on the right hand side, give the tour a relevant name (as we will be using this later in the rendering process) and click OK. You should then see a new item in your folder with a little video camera icon – this is a tour.
 
