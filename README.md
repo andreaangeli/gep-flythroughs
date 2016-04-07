@@ -27,6 +27,8 @@ The effect for both terrain and 3D buildings is quite impressive.
 
 ![Image showing the difference between 3D rendering and flat](screenshots/3d_and_terrain.jpg)
 
+To find out for where 3D imagery is available, check out [the Google Earth blog](http://www.gearthblog.com/blog/archives/2016/02/google-earth-3d-imagery-progress-2.html). You can download the KML file that outlines [the exact locations](http://www.gearthblog.com/kmfiles/3DMeshLocationsNetworkLink.kml) and open it in Google Earth.   
+
 ## Getting started
 ### Downloading Google Earth Pro
 Google Earth Pro [can be downloaded from their site](http://www.google.co.uk/earth/download/gep/agree.html) and since [January 2015](https://google-latlong.blogspot.co.uk/2015/01/google-earth-pro-is-now-free.html) hasn’t required a paid license, making it perfect for teams of newsroom journalists and designers to create content.
