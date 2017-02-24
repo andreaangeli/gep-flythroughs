@@ -1,8 +1,8 @@
-# NICAR 2016 - Creating Google Earth Pro flythroughs
+# Nicar 2017 - Creating Google Earth Pro flythroughs
 
-This how-to guide for creating flythroughs with Google Earth Pro was presented at [Nicar 2017](http://www.ire.org/conferences/nicar2017) in Jacksonville, Florida by [Nassos Stylianou](https://twitter.com/nassos_) and [Ed Lowther](https://twitter.com/edlowther) from the BBC News Visual Journalism team. You can also view the accompanying presentation [here](https://www.dropbox.com/s/n1b0pehsggxeypc/nicar_2016_google_flythroughs.pdf?dl=0). 
+This how-to guide for creating flythroughs with Google Earth Pro was presented at [Nicar 2017](http://www.ire.org/conferences/nicar2017) in Jacksonville, Florida by [Nassos Stylianou](https://twitter.com/nassos_) and [Ed Lowther](https://twitter.com/edlowther) from the BBC News Visual Journalism team. You can also view the accompanying presentation [here](https://docs.google.com/presentation/d/1-PUF2EY29QLZlnQsYvGFXAKbHdJejZsAuDgx90-cIdE/). 
 
-Special thanks to [Tom Nurse](https://twitter.com/tmnrs), former editorial designer on the BBC’s Visual Journalism team who worked on the original presentation and tutorial and co-presented it at Nicar 2016.
+Special thanks to [Tom Nurse](https://twitter.com/tmnrs), former editorial designer on the BBC’s Visual Journalism team, who worked on the original presentation and tutorial and co-presented it at Nicar 2016.
 
 **Table of contents**
 
